@@ -73,7 +73,7 @@
         </td>
         <td width="50%">
             <h3 align="center" style="font-family: Arial;">
-                Página de ensayo de Panadería
+              Gestion Adminitrativa de panaderia 
             </h3>
             <div align="center">
                 <a href="https://henryandalejandro.github.io/EJERCICIO-RIWI/panaderia/" target="_blank">
