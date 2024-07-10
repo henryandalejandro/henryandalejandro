@@ -1,9 +1,9 @@
 <div>
     <div align=center>
-        <img src="https://wallpapercave.com/wp/wp12281505.jpg" alt="GitHub Octocat Drinking a Cup of Coffee" height="200">
+        <img src="https://cdn.pixabay.com/photo/2012/04/25/08/46/face-41697_1280.png" alt="GitHub Octocat Drinking a Cup of Coffee" height="200">
     </div>
     <div align=center>
-        <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Fathy+%F0%9F%91%8B;Computer+Science+Student;Back-End+Engineer;Problem+Solver;Freelancer;Open-Source+Enthusiast" alt="Headline" />
+        <img src="        https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=25&pause=1000&random=false&width=435&lines=Desarrollador+full+stack+%F0%9F%98%81;Desarrollador+con+pasi%C3%B3n+%F0%9F%98%8D;Freelancer;Open-Source+Enthusiast" alt="Headline" />
     </div>
     <div align=center>
         <a href="https://www.linkedin.com/in/ahmedfathydev/"><img src="https://img.shields.io/badge/Linkedin-0077b5?style=flat&logo=linkedin" alt="LinkedIn" /></a>
