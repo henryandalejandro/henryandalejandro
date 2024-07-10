@@ -25,7 +25,7 @@
 
                                             
 
-<div align="center">
+<div align="left">
     <p><strong>🚦🌍🏁🛣️ Conocimientos en:</strong></p>
     <ul>
         <li>Angular</li>
